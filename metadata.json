@@ -1,0 +1,7 @@
+{
+  "name": "LensLearn",
+  "description": "Snap a photo of any object to see its name in a foreign language and learn through visual context. Supports multiple languages with AI-powered object detection.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
